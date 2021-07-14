@@ -1,4 +1,4 @@
-# Moved to GitLab: https://gitlab.com/beeper/linkedin
+# Moved to GitLab: https://gitlab.com/beeper/linkedin-matrix
 
 # linkedin-matrix
 
