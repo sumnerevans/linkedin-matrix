@@ -1,3 +1,5 @@
+# Moved to GitLab: https://gitlab.com/beeper/linkedin
+
 # linkedin-matrix
 
 [![Matrix Chat](https://img.shields.io/matrix/linkedin-matrix:nevarro.space?server_fqdn=matrix.nevarro.space)](https://matrix.to/#/#linkedin-matrix:nevarro.space?via=nevarro.space&via=sumnerevans.com)
